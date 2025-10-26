@@ -1,0 +1,5 @@
+myenv/
+endToendmlproject.egg-info/
+logs/
+artifcats/
+catboost_info/
